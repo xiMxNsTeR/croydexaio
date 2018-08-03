@@ -1,0 +1,2 @@
+@ECHO OFF
+CHKDSK C /F /R
